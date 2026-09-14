@@ -3,7 +3,7 @@
 I'm a **Frontend & Full-Stack Developer** passionate about building clean, performant, and user-centric web applications. 
 
 - 🔭 Currently building interactive full-stack and frontend applications with **React**, **TypeScript**, and the **MERN Stack**.
-- 🛠️ Specializing in component architectures, auth systems, state management (**Zustand**), and modern styling (**Tailwind CSS** / **Bootstrap**).
+- 🛠️ Specializing in component architectures, auth systems, state management (**Zustand**), and modern styling **Bootstrap**.
 - 🎯 Looking for Software Engineering & Frontend Internship/Junior opportunities.
 
 ---
@@ -18,7 +18,6 @@ I'm a **Frontend & Full-Stack Developer** passionate about building clean, perfo
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)

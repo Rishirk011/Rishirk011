@@ -54,6 +54,6 @@ I'm a **Frontend & Full-Stack Developer** passionate about building clean, perfo
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishirk011&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishirk011&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishirk011&theme=tokyonight" alt="Rishirk011 Streak Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishirk011&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
 </p>
